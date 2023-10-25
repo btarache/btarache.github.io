@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ceb221e.chunk.css",
+    "main.js": "/static/js/main.d8af9437.chunk.js",
+    "main.js.map": "/static/js/main.d8af9437.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a08c2776.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a08c2776.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.53ed2f95.chunk.js": "/static/js/2.53ed2f95.chunk.js",
+    "static/js/2.53ed2f95.chunk.js.map": "/static/js/2.53ed2f95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.0ceb221e.chunk.css.map": "/static/css/main.0ceb221e.chunk.css.map",
+    "static/js/2.53ed2f95.chunk.js.LICENSE.txt": "/static/js/2.53ed2f95.chunk.js.LICENSE.txt",
+    "static/media/chicago.4a446423.svg": "/static/media/chicago.4a446423.svg",
+    "static/media/development.d185897a.svg": "/static/media/development.d185897a.svg",
+    "static/media/dsign.18d9c7ae.svg": "/static/media/dsign.18d9c7ae.svg",
+    "static/media/logo.16ae63a1.svg": "/static/media/logo.16ae63a1.svg",
+    "static/media/mail.34c9444a.svg": "/static/media/mail.34c9444a.svg",
+    "static/media/meeting.8fc03dfc.svg": "/static/media/meeting.8fc03dfc.svg",
+    "static/media/mockup.6a405d7b.svg": "/static/media/mockup.6a405d7b.svg",
+    "static/media/ph.d5ed6d58.svg": "/static/media/ph.d5ed6d58.svg",
+    "static/media/rsponsiv.64343e69.svg": "/static/media/rsponsiv.64343e69.svg",
+    "static/media/testing.6a2264c6.svg": "/static/media/testing.6a2264c6.svg",
+    "static/media/video.991e26fc.mp4": "/static/media/video.991e26fc.mp4",
+    "static/media/wp.72fc30dc.svg": "/static/media/wp.72fc30dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08c2776.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.53ed2f95.chunk.js",
+    "static/css/main.0ceb221e.chunk.css",
+    "static/js/main.d8af9437.chunk.js"
+  ]
+}
