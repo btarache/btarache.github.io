@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pizzamaestro/static/css/main.7d0374c2.chunk.css",
+    "main.js": "/pizzamaestro/static/js/main.3ecb8fba.chunk.js",
+    "main.js.map": "/pizzamaestro/static/js/main.3ecb8fba.chunk.js.map",
+    "runtime-main.js": "/pizzamaestro/static/js/runtime-main.bf3753e5.js",
+    "runtime-main.js.map": "/pizzamaestro/static/js/runtime-main.bf3753e5.js.map",
+    "static/js/2.880937f7.chunk.js": "/pizzamaestro/static/js/2.880937f7.chunk.js",
+    "static/js/2.880937f7.chunk.js.map": "/pizzamaestro/static/js/2.880937f7.chunk.js.map",
+    "index.html": "/pizzamaestro/index.html",
+    "static/css/main.7d0374c2.chunk.css.map": "/pizzamaestro/static/css/main.7d0374c2.chunk.css.map",
+    "static/js/2.880937f7.chunk.js.LICENSE.txt": "/pizzamaestro/static/js/2.880937f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pizzamaestro/static/media/bg.38f4b351.jpg",
+    "static/media/logo.png": "/pizzamaestro/static/media/logo.png",
+    "static/media/pizza.0a62753a.jpg": "/pizzamaestro/static/media/pizza.0a62753a.jpg",
+    "static/media/pizza1.a84ae921.png": "/pizzamaestro/static/media/pizza1.a84ae921.png",
+    "static/media/pizza2.c40182b3.png": "/pizzamaestro/static/media/pizza2.c40182b3.png",
+    "static/media/pizza3.85dc67ec.png": "/pizzamaestro/static/media/pizza3.85dc67ec.png",
+    "static/media/pizza4.f03c9d6b.png": "/pizzamaestro/static/media/pizza4.f03c9d6b.png",
+    "static/media/pizza5.cb67f4d4.png": "/pizzamaestro/static/media/pizza5.cb67f4d4.png",
+    "static/media/pizza6.6f6d5bf8.png": "/pizzamaestro/static/media/pizza6.6f6d5bf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf3753e5.js",
+    "static/js/2.880937f7.chunk.js",
+    "static/css/main.7d0374c2.chunk.css",
+    "static/js/main.3ecb8fba.chunk.js"
+  ]
+}
