@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/pizzamia/static/js/main.12ab443a.chunk.js",
+    "main.js.map": "/pizzamia/static/js/main.12ab443a.chunk.js.map",
+    "runtime-main.js": "/pizzamia/static/js/runtime-main.1e4046e7.js",
+    "runtime-main.js.map": "/pizzamia/static/js/runtime-main.1e4046e7.js.map",
+    "static/js/2.2f339aa2.chunk.js": "/pizzamia/static/js/2.2f339aa2.chunk.js",
+    "static/js/2.2f339aa2.chunk.js.map": "/pizzamia/static/js/2.2f339aa2.chunk.js.map",
+    "index.html": "/pizzamia/index.html",
+    "static/js/2.2f339aa2.chunk.js.LICENSE.txt": "/pizzamia/static/js/2.2f339aa2.chunk.js.LICENSE.txt",
+    "static/media/bg.38f4b351.jpg": "/pizzamia/static/media/bg.38f4b351.jpg",
+    "static/media/featured3.66d68644.jpg": "/pizzamia/static/media/featured3.66d68644.jpg",
+    "static/media/product-1.36d084f3.jpg": "/pizzamia/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/pizzamia/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/pizzamia/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/pizzamia/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/pizzamia/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/pizzamia/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4046e7.js",
+    "static/js/2.2f339aa2.chunk.js",
+    "static/js/main.12ab443a.chunk.js"
+  ]
+}
