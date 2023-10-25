@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Pepsi REsponsive</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="encabezado.css">
+
+		<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Poppins:wght@300;700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<section class="sec">
+		<div class="container">
+		<header>
+			<a href="#"><img src="images/logo.svg" class="logo"></a>
+			<div class="toggleMenu" onclick="menuToggle();"></div>
+			<ul class="navigation">
+				<li><a href="#">Homee</a></li>
+				<li><a href="#about">About Me</a></li>
+				<li><a href="#services">Services</a></li>
+				<li><a href="#portfolio">Portfolio</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</header>
+		<div class="content-intro">
+			<div class="textBox">
+				<h2>Benjamin<br><span>Tarache</span></h2>
+				<h4>web development</h4>
+				
+				<!--<a href="#">View More</a> -->	
+			</div>
+			<div class="imgBox">
+				<img src="images/hand.png" class="pepsi">
+			</div>
+		</div>
+		<ul class="thumb">
+			<li><img src="images/hand.png" onclick="imgSlider('images/hand.png');changeBgColor('#ffcc00')"></li> <!-- #0062be -->
+			<li><img src="images/im2.png" onclick="imgSlider('images/manequin.png');changeBgColor('#fda211')"></li>
+			<li><img src="images/jelly.png" onclick="imgSlider('images/jelly.png');changeBgColor('#0062be')"></li><!-- #1e1e1e -->
+
+		</ul>
+		<ul class="sci">
+			<li><a href="#"><img src="images/facebook.png" alt=""></a></li>
+			<li><a href="#"><img src="images/twitter.png" alt=""></a></li>
+			<li><a href="#"><img src="images/instagram.png" alt=""></a></li>
+		</ul>
+		</div>
+	</section>
+
+	<script type="text/javascript">
+		function imgSlider(anything){
+			document.querySelector('.pepsi').src = anything;
+		}
+		function changeBgColor(color){
+			const sec = document.querySelector('.sec'); /* sec: Linea 9 */
+			sec.style.background = color
+		} 
+
+
+		function menuToggle(){
+			const toggleMenu = document.querySelector('.toggleMenu'); /*Linea 13*/
+
+			const navigation = document.querySelector('.navigation'); /*Esto se agregó luego de esto: toggleMenu.classList.toggle('active'); Y en la linea 14 al UL se le agrega una clase llamada navigation */
+
+			toggleMenu.classList.toggle('active'); /*Luego agrego onclick en linea 13*/
+			/*creo en los CSS, linea 185 el .toggleMenu.ACTIVE*/
+			
+
+			/* Y eto para finalizar */
+			navigation.classList.toggle('active');
+		}
+	</script>
+
+
+
+
+
+
+
+
+</body>
+</html>
